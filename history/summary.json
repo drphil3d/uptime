@@ -4,19 +4,19 @@
     "url": "https://norcalmachine.com",
     "icon": "https://favicons.githubusercontent.com/norcalmachine.com",
     "slug": "nor-cal-machine-works",
-    "status": "up",
-    "uptime": "96.84%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "96.84%",
-    "time": 1465,
-    "timeDay": 1388,
-    "timeWeek": 1465,
-    "timeMonth": 1465,
-    "timeYear": 1465,
+    "status": "down",
+    "uptime": "97.30%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
+    "time": 1466,
+    "timeDay": 1366,
+    "timeWeek": 1466,
+    "timeMonth": 1466,
+    "timeYear": 1466,
     "dailyMinutesDown": {
-      "2022-04-11": 52
+      "2022-04-11": 45
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1560,
-    "timeDay": 1602,
-    "timeWeek": 1560,
-    "timeMonth": 1560,
-    "timeYear": 1560,
+    "time": 1519,
+    "timeDay": 1393,
+    "timeWeek": 1519,
+    "timeMonth": 1519,
+    "timeYear": 1519,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2066,
-    "timeDay": 478,
-    "timeWeek": 2066,
-    "timeMonth": 2066,
-    "timeYear": 2066,
+    "time": 2231,
+    "timeDay": 2725,
+    "timeWeek": 2231,
+    "timeMonth": 2231,
+    "timeYear": 2231,
     "dailyMinutesDown": {}
   }
 ]
