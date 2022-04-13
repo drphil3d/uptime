@@ -5,13 +5,13 @@
     "icon": "https://favicons.githubusercontent.com/norcalmachine.com",
     "slug": "nor-cal-machine-works",
     "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "93.75%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "95.89%",
+    "uptime": "95.94%",
+    "uptimeDay": "94.01%",
+    "uptimeWeek": "95.94%",
+    "uptimeMonth": "95.94%",
+    "uptimeYear": "95.94%",
     "time": 1701,
-    "timeDay": 1996,
+    "timeDay": 1997,
     "timeWeek": 1701,
     "timeMonth": 1701,
     "timeYear": 1701,
@@ -26,9 +26,9 @@
     "url": "https://massagelibrary.com",
     "icon": "https://favicons.githubusercontent.com/massagelibrary.com",
     "slug": "massage-library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1638,
     "timeMonth": 1638,
     "timeYear": 1638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Vector Additive",
