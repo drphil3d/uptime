@@ -4,19 +4,19 @@
     "url": "https://norcalmachine.com",
     "icon": "https://favicons.githubusercontent.com/norcalmachine.com",
     "slug": "nor-cal-machine-works",
-    "status": "up",
-    "uptime": "95.45%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "95.45%",
-    "uptimeYear": "95.45%",
-    "time": 1643,
-    "timeDay": 1664,
-    "timeWeek": 1606,
-    "timeMonth": 1643,
-    "timeYear": 1643,
+    "status": "down",
+    "uptime": "95.49%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "95.33%",
+    "uptimeMonth": "95.49%",
+    "uptimeYear": "95.49%",
+    "time": 1642,
+    "timeDay": 1656,
+    "timeWeek": 1605,
+    "timeMonth": 1642,
+    "timeYear": 1642,
     "dailyMinutesDown": {
-      "2022-04-23": 69,
+      "2022-04-23": 62,
       "2022-04-22": 145,
       "2022-04-21": 47,
       "2022-04-20": 117,
@@ -54,7 +54,7 @@
     "url": "https://vectoradditive.com",
     "icon": "https://favicons.githubusercontent.com/vectoradditive.com",
     "slug": "vector-additive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -65,6 +65,8 @@
     "timeWeek": 2155,
     "timeMonth": 2117,
     "timeYear": 2117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-23": 0
+    }
   }
 ]
