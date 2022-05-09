@@ -1,7 +1,7 @@
 url: https://norcalmachine.com
-status: up
-code: 200
-responseTime: 1937
-lastUpdated: 2022-05-09T22:34:50.930Z
+status: down
+code: 502
+responseTime: 115
+lastUpdated: 2022-05-09T22:43:21.926Z
 startTime: Sun Apr 10 2022 18:56:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
