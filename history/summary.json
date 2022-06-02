@@ -4,15 +4,15 @@
     "url": "https://norcalmachine.com",
     "icon": "https://favicons.githubusercontent.com/norcalmachine.com",
     "slug": "nor-cal-machine-works",
-    "status": "up",
-    "uptime": "83.60%",
-    "uptimeDay": "0.01%",
+    "status": "down",
+    "uptime": "83.63%",
+    "uptimeDay": "1.01%",
     "uptimeWeek": "0.80%",
     "uptimeMonth": "73.40%",
-    "uptimeYear": "83.60%",
+    "uptimeYear": "83.63%",
     "time": 1667,
-    "timeDay": 266,
-    "timeWeek": 266,
+    "timeDay": 841,
+    "timeWeek": 841,
     "timeMonth": 1659,
     "timeYear": 1667,
     "dailyMinutesDown": {
@@ -58,7 +58,7 @@
       "2022-04-23": 61,
       "2022-04-22": 145,
       "2022-04-21": 47,
-      "2022-04-20": 49
+      "2022-04-20": 31
     }
   },
   {
