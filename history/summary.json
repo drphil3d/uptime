@@ -6,17 +6,16 @@
     "slug": "nor-cal-machine-works",
     "status": "up",
     "uptime": "86.84%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "74.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "74.24%",
     "uptimeYear": "86.84%",
     "time": 1660,
-    "timeDay": 1458,
+    "timeDay": 1467,
     "timeWeek": 1552,
-    "timeMonth": 1602,
+    "timeMonth": 1603,
     "timeYear": 1660,
     "dailyMinutesDown": {
-      "2022-06-15": 4,
       "2022-06-14": 36,
       "2022-06-12": 38,
       "2022-06-10": 39,
@@ -63,7 +62,7 @@
       "2022-04-28": 134,
       "2022-04-27": 85,
       "2022-04-26": 75,
-      "2022-04-25": 64
+      "2022-04-25": 80
     }
   },
   {
