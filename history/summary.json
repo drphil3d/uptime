@@ -6,17 +6,17 @@
     "slug": "nor-cal-machine-works",
     "status": "up",
     "uptime": "89.00%",
-    "uptimeDay": "93.35%",
-    "uptimeWeek": "94.58%",
-    "uptimeMonth": "87.42%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "90.86%",
     "uptimeYear": "89.00%",
     "time": 1639,
-    "timeDay": 1477,
-    "timeWeek": 1544,
+    "timeDay": 1531,
+    "timeWeek": 1550,
     "timeMonth": 1583,
     "timeYear": 1639,
     "dailyMinutesDown": {
-      "2022-06-30": 96,
+      "2022-06-30": 84,
       "2022-06-29": 87,
       "2022-06-28": 145,
       "2022-06-25": 101,
@@ -64,7 +64,7 @@
       "2022-05-09": 77,
       "2022-05-08": 47,
       "2022-05-07": 56,
-      "2022-05-06": 23
+      "2022-05-06": 42
     }
   },
   {
@@ -76,12 +76,12 @@
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 977,
     "timeDay": 261,
     "timeWeek": 345,
-    "timeMonth": 266,
+    "timeMonth": 259,
     "timeYear": 977,
     "dailyMinutesDown": {
       "2022-05-31": 39,
@@ -104,7 +104,7 @@
     "time": 2375,
     "timeDay": 3137,
     "timeWeek": 3756,
-    "timeMonth": 2301,
+    "timeMonth": 2260,
     "timeYear": 2375,
     "dailyMinutesDown": {
       "2022-06-21": 16,
