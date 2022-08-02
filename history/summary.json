@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/norcalmachine.com",
     "slug": "nor-cal-machine-works",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "95.31%",
-    "uptimeMonth": "96.68%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.27%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "98.27%",
     "time": 1620,
     "timeDay": 1769,
     "timeWeek": 1622,
     "timeMonth": 1568,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2022-08-02": 46,
+      "2022-08-02": 36,
       "2022-08-01": 63,
       "2022-07-31": 40,
       "2022-07-30": 56,
@@ -62,7 +62,7 @@
       "2022-06-10": 39,
       "2022-06-09": 20,
       "2022-06-07": 44,
-      "2022-06-06": 16
+      "2022-06-06": 60
     }
   },
   {
@@ -74,7 +74,7 @@
     "uptime": "89.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.53%",
+    "uptimeMonth": "63.52%",
     "uptimeYear": "89.79%",
     "time": 776,
     "timeDay": 124,
@@ -82,7 +82,7 @@
     "timeMonth": 238,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2022-08-02": 1363,
+      "2022-08-02": 1370,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
@@ -105,17 +105,17 @@
     "url": "https://vectoradditive.com",
     "icon": "https://favicons.githubusercontent.com/vectoradditive.com",
     "slug": "vector-additive",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "94.49%",
-    "uptimeYear": "98.53%",
-    "time": 2205,
-    "timeDay": 2685,
-    "timeWeek": 2210,
-    "timeMonth": 2185,
-    "timeYear": 2205,
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "90.45%",
+    "uptimeMonth": "94.55%",
+    "uptimeYear": "98.55%",
+    "time": 2204,
+    "timeDay": 2637,
+    "timeWeek": 2204,
+    "timeMonth": 2183,
+    "timeYear": 2204,
     "dailyMinutesDown": {
       "2022-08-02": 38,
       "2022-08-01": 226,
@@ -132,7 +132,7 @@
       "2022-07-21": 191,
       "2022-07-20": 220,
       "2022-07-19": 134,
-      "2022-07-18": 218
+      "2022-07-18": 191
     }
   }
 ]
